@@ -5,9 +5,9 @@ Manim script animations for a video project titled "Understanding the Strong For
 YouTube video link:
 https://www.youtube.com/watch?v=FL3ImtGcHqQ
 
-Manim Community Edition:
+These scripts were written for and rendered with the Manim Community Edition v0.16.0.post0 release.
 https://www.manim.community/
-These scripts were written and rendered with the v0.16.0.post0 release.
+
 
 Extra LaTeX packages used:
 braket
